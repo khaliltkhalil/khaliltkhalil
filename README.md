@@ -1,6 +1,8 @@
 ### Hi there 👋
+![image](https://github.com/khaliltkhalil/khaliltkhalil/assets/35589566/e6ea71b6-8000-49b2-a36d-a09c2e33a8d9)
 
-<!--
+<!--![Uploading image.png…]()
+
 **khaliltkhalil/khaliltkhalil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
