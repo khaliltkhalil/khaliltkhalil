@@ -1,12 +1,11 @@
 
 ![image](https://github.com/khaliltkhalil/khaliltkhalil/assets/35589566/e6ea71b6-8000-49b2-a36d-a09c2e33a8d9)
 
-
-
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
   
+
 ### <div align="center">I'm Khalil, a full-stack software developer 👨‍💻 Looking for a place to share my knowledge  and build awesome stuff🚀</div>  
   
 
@@ -62,6 +61,14 @@
 
 
 
+### Planning to Learn  
+<div align="center">  
+<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
+<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
+<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
+<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
+</div>
+
 </td></tr></table>  
 
 <br/>  
@@ -82,5 +89,4 @@
 
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
