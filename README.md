@@ -14,10 +14,6 @@
 
 - 🌱 I previously graduated with a master degree in Electrical Engineering  
   
-
-- ❓Leetcode is my Netflix 😁  
-  
-
 - ⚡Outside Tech I love playing soccer, running and lifting weight.   
   
 
